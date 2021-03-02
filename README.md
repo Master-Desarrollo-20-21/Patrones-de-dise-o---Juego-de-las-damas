@@ -1,6 +1,6 @@
 # Práctica final del curso de Patrones de Diseño
 
-Esta práctica es un tanto libre. Vamos a proponer un enunciado pero Luis está abierto a que se realice otro proyecto de juego, como se comentó en clase.
+Esta práctica es un tanto libre. Vamos a proponer un enunciado pero Luis está abierto a que se realice otro proyecto de juego, como se comentó en clase y se especifica en el punto "Otras alternativas de práctica" en este mismo readme.
 
 ## Juego de "Las Damas"
 
